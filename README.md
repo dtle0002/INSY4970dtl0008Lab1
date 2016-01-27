@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: dtle0002
+This is the read me file for INSY4970Lab
